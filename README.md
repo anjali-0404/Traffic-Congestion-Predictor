@@ -113,5 +113,5 @@ This project is licensed under the **MIT License** — feel free to use, modify,
 
 ---
 
-Would you like me to **personalize it** (add emojis, color badges, and a more hackathon-style design with visuals like shields for Python, Streamlit, etc.)? That will make it look even more impressive on GitHub.
+
 
